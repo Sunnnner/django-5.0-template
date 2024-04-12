@@ -1,2 +1,3 @@
 - 使用pdm进行包管理
 - 使用时请修改项目名称
+- 使用时请查看pyproject.toml文件中的scripts配置
